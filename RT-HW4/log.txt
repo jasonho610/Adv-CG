@@ -1,0 +1,51 @@
+<No bounding box>
+Input_Suzanne    15 s
+Input_Bunny      2010 s
+Input_Suzanne-HR 246 s
+Input_Bunny-HR   32837 s
+
+<With bounding box>
+Input_Suzanne 50  17 s
+Input_Suzanne 80  15 s
+Input_Suzanne 100 14 s
+Input_Suzanne 120 14 s
+Input_Suzanne 150 15 s
+Input_Suzanne 180 14 s
+Input_Suzanne 200 13 s
+Input_Suzanne 220 13 s
+Input_Suzanne 250 14 s
+Input_Suzanne 260 14 s
+
+Input_Suzanne-HR 200 229 s
+Input_Suzanne-HR 220 223 s
+
+Input_Bunny 200   1996 s
+Input_Bunny 250   1696 s
+Input_Bunny 300   1683 s
+Input_Bunny 400   1685 s
+Input_Bunny 450   1675 s
+Input_Bunny 800   1659 s
+Input_Bunny 1000  1654 s
+Input_Bunny 1200  1657 s
+Input_Bunny 1600  1685 s
+Input_Bunny 2000  1688 s
+Input_Bunny 2200  1648 s
+Input_Bunny 2400  1740 s
+Input_Bunny 2500  1652 s
+Input_Bunny 3000  1685 s
+Input_Bunny 3200  1649 s
+Input_Bunny 5000  1669 s
+Input_Bunny 6000  1644 s
+Input_Bunny 6400  1645 s
+Input_Bunny 8000  1642 s
+Input_Bunny 12800 1644 s
+Input_Bunny 13000 1647 s
+Input_Bunny 14000 1649 s
+Input_Bunny 15000 1649 s
+Input_Bunny 16000 1646 s
+Input_Bunny 17000 1654 s
+Input_Bunny 18000 1652 s
+
+Input_Bunny-HR 1000 31559 s
+Input_Bunny-HR 6000 27308 s
+Input_Bunny-HR 12800 26928 s
