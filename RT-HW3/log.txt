@@ -1,0 +1,40 @@
+==============================================================================
+This is a speed testing for codes in Advanced Computer Graphics HW3.
+It runs multiple settings for rendering.
+ECHO is off.
+The usage of HW3.exe is:
+$ cd \wherever_you_keep_it\RT-HW3
+        $ RT-HW3.exe trace_depth figure
+ECHO is off.
+positional arguments:
+    trace_depth         the tracing depth of ray
+    figure                      the name of .txt file which you want to render
+                        do not enter postfix ".txt"
+                        just the file name is fine
+ECHO is off.
+==============================================================================
+Input file : Assignment 3 Input\Input_Suzanne.txt
+Render duration: 15 s
+Output file : Output\Input_Suzanne_TD_2.ppm
+Input file : Assignment 3 Input\Input_Suzanne.txt
+Render duration: 16 s
+Output file : Output\Input_Suzanne_TD_4.ppm
+Input file : Assignment 3 Input\Input_Suzanne.txt
+Render duration: 16 s
+Output file : Output\Input_Suzanne_TD_6.ppm
+Input file : Assignment 3 Input\Input_Suzanne.txt
+Render duration: 16 s
+Output file : Output\Input_Suzanne_TD_8.ppm
+Input file : Assignment 3 Input\Input_Bunny.txt
+Render duration: 1751 s
+Output file : Output\Input_Bunny_TD_2.ppm
+Input file : Assignment 3 Input\Input_Bunny.txt
+Render duration: 1771 s
+Output file : Output\Input_Bunny_TD_4.ppm
+Input file : Assignment 3 Input\Input_Bunny.txt
+Render duration: 1726 s
+Output file : Output\Input_Bunny_TD_6.ppm
+Input file : Assignment 3 Input\Input_Bunny.txt
+Render duration: 1728 s
+Output file : Output\Input_Bunny_TD_8.ppm
+Press any key to continue . . .
